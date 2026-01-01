@@ -1,0 +1,13 @@
+[
+    {
+        "firstName": "ABC",
+        "lastName": "Def",
+        "address": "123 Main Street",
+       "city": "Delhi",
+        "state": "Delhi",
+        "zipCode": "110001",
+        "phone": "9876543210",    
+        "ssn": "123-45-6789",        
+        "password": "Admin"
+    }
+]
